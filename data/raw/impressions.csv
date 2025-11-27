@@ -1,0 +1,5 @@
+date,campaign_id,country,device,impressions
+2025-11-01,cmp_001,CA,Mobile,12000
+2025-11-01,cmp_001,CA,Desktop,8000
+2025-11-01,cmp_002,US,Mobile,15000
+2025-11-02,cmp_001,CA,Mobile,10000
